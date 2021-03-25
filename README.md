@@ -1,4 +1,5 @@
 # simon-game-vue
+https://hidoi-chan.github.io/simon-game/
 
 ## Project setup
 ```
