@@ -161,6 +161,10 @@ export default {
     }
 
     @media screen and (max-width: 700px) {
+        #app {
+            margin-top: 0;
+        }
+
         .container {
             flex-direction: column;
             align-items: center;

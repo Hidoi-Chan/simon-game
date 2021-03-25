@@ -72,10 +72,11 @@ export default {
     .info-block {
         width: 100%;
         max-width: 100%;
-        height: 60px;
+        min-height: 60px;
         display: flex;
         align-items: center;
         justify-content: center;
+        padding: 5px;
         margin-bottom: 20px;
         border: 1px solid #bbb;
         border-radius: 4px;
